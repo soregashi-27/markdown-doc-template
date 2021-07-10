@@ -103,4 +103,4 @@ Give a ⭐️ if you like this project!
 ## Credit
 
 Big thanks to Jonathan, who is a my language exchange mate living in Austria. \
-Studying with English and Japanese. We make it together.
+Studying with English and Japanese. We make this app together.
