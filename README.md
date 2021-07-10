@@ -7,7 +7,9 @@
   
 
 ![Laravel 8.36.2](https://img.shields.io/badge/Laravel-8.x-red) 
+![Laravel 6.20.3](https://img.shields.io/badge/Laravel-6.20.3-red) 
 ![Vue 2.*.*](https://img.shields.io/badge/Vue-2.x.x-green) 
+![Vue 2.6.14](https://img.shields.io/badge/Vue-2.6.14-green) 
 <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> 
 <img src="https://img.shields.io/badge/-Terraform-EEE.svg?logo=terraform&logoColor=7B42BC">
 <img src="https://img.shields.io/badge/-CircleCI-EEE.svg?logo=circleci&logoColor=black">
