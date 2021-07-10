@@ -97,3 +97,10 @@ For running the server file on you can use this command.
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
+
+※Study Trackerを作る時に追加する↓↓
+
+## Credit
+
+Big thanks to Jonathan, who is a my language exchange mate living in Austria. \
+Studying with English and Japanese. We make it together.
