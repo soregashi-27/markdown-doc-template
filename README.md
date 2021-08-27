@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> 
 <img src="https://img.shields.io/badge/-Terraform-EEE.svg?logo=terraform&logoColor=7B42BC">
 <img src="https://img.shields.io/badge/-CircleCI-EEE.svg?logo=circleci&logoColor=black">
+<img src="https://img.shields.io/badge/-GithubActions-EEE.svg?logo=githubactions&logoColor=black">
 
 ![Gatsby 3.7.1](https://img.shields.io/badge/Gatsby-3.7.1-blueviolet)  [![Netlify Status](https://api.netlify.com/api/v1/badges/8e3c1a4c-86dc-4c26-8e6e-5991fb775e54/deploy-status)](https://app.netlify.com/sites/gatsby-with-graphql/deploys)
 </div>
